@@ -1,7 +1,4 @@
-Hi there,  I'm Harshal!👋 
-Senior Salesforce Engineer | Apex | Integrations | Platform Design
-
-Senior Salesforce engineer with experience delivering and supporting enterprise Salesforce implementations. Strong background in Apex development, system integrations and designing Salesforce solutions that scale across business teams and environments.
+Hi there,  I'm Harshal!👋  Senior Salesforce Engineer with experience delivering and supporting enterprise Salesforce implementations. Strong background in Apex development, system integrations and designing Salesforce solutions that scale across business teams and environments.
 
 
 ## Professional Strengths
