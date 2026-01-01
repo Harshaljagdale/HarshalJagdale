@@ -2,13 +2,12 @@
 ### Senior Salesforce Engineer 
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/LWC-Modern%20UI-green?style=for-the-badge)
-![Certifications](https://img.shields.io/badge/Certifications-9+-orange?style=for-the-badge)
+![LWC](https://img.shields.io/badge/LWC-Lightning-green?style=for-the-badge)
+![Apex](https://img.shields.io/badge/Apex-Artificial%20Intelligence-blue?style=for-the-badge)
 ![Agentblazer](https://img.shields.io/badge/Agentblazer-AI_Specialist-8E44AD?style=for-the-badge&logo=salesforce&logoColor=white)
-![Platform Developer I](https://img.shields.io/badge/Platform_Developer_I-Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Platform Developer I](https://img.shields.io/badge/Platform_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
-
 
 ## 👨‍💻 Professional Profile
 I am a **Senior Salesforce Engineer** dedicated to delivering and supporting enterprise-scale implementations. I specialize in bridging the gap between complex business needs and high-performance technical execution.
