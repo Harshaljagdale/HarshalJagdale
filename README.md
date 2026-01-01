@@ -3,7 +3,7 @@
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/LWC-Modern%20UI-green?style=for-the-badge)
-![Certifications](https://img.shields.io/badge/Certifications-10+-orange?style=for-the-badge)
+![Certifications](https://img.shields.io/badge/Certifications-9+-orange?style=for-the-badge)
 
 ---
 
