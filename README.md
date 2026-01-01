@@ -28,7 +28,7 @@ I am a **Senior Salesforce Engineer** dedicated to delivering and supporting ent
 | **Revenue Ops Tech** | LeanData, Outreach, Gong.io, Conversica, 6Sense |
 | **Data & Analytics** | Snowflake, Salesforce Data Cloud |
 
-> **My Philosophy:** I prioritize **Configuration** (Flows) where possible but leverage **Custom Apex** when it provides clear business value, technical necessity, or superior performance.
+> **My Philosophy:** I prioritize **Configuration** (Flows) where possible but leverage **Custom Apex** when it provides clear business value, technical necessity or superior performance.
 
 ---
 
