@@ -23,7 +23,7 @@ I am a **Senior Salesforce Engineer** dedicated to delivering and supporting ent
 | **Integration** | Tray.ai, REST/SOAP APIs, Platform Events |
 | **DevOps** | Salesforce CLI (SFDX), GitHub Actions, VS Code , Copado |
 | **Architecture** | Scalable Design, Data Modeling, Security (Shield/Event Monitoring) |
-| **Revenue Ops Tech** | LeanData, Outreach, Gong.io |
+| **Revenue Ops Tech** | LeanData, Outreach, Gong.io, Conversica, 6Sense |
 | **Data & Analytics** | Snowflake, Salesforce Data Cloud |
 
 > **My Philosophy:** I prioritize **Configuration** (Flows) where possible but leverage **Custom Apex** when it provides clear business value, technical necessity, or superior performance.
