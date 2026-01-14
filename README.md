@@ -1,4 +1,4 @@
-# Hi, I'm Harshal 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F6F1&width=435&lines=Hi%2C+I'm+Harshal)](https://git.io/typing-svg)
 ### Senior Salesforce Engineer 
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
