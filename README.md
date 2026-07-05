@@ -12,9 +12,6 @@
 ## 👨‍💻 Professional Profile
 I am a **Senior Salesforce Engineer** dedicated to delivering and supporting enterprise-scale implementations. I specialize in bridging the gap between complex business needs and high-performance technical execution.
 
-* **Enterprise Focus:** Proven track record in high-visibility, business-critical environments.
-* **Collaborative Leader:** I partner with Product Owners, Admins and QA to ensure seamless delivery.
-
 ---
 
 ## 🛠 Engineering Stack & Approach
